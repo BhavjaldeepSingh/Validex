@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+uploads/
+outputs/
+errors/
+chunks/
+storage/
+
+*.db
+.env
+.pytest_cache/
