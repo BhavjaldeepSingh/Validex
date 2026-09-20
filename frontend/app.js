@@ -5,7 +5,7 @@
 // const API_URL =
     "https://transaction-validator-api.onrender.com";
 
-const API_URL = "http://127.0.0.1:3000";
+const API_URL = "https://validex-xp3x.onrender.com";
 
 const LOCAL_STORAGE_KEY = "tv_validation_history_v2";
 
