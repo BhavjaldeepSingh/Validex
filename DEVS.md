@@ -1,6 +1,6 @@
 # Developer Technical Documentation & Architecture Guide (DEVS ONLY)
 
-This document provides a comprehensive technical breakdown of the **Transaction Validation Platform** architecture, data flow, component internals, algorithms, and persistence models. It is written exclusively for engineers contributing to or maintaining this codebase.
+This document provides a comprehensive technical breakdown of the ** Datova - Transaction Validation Platform** architecture, data flow, component internals, algorithms, and persistence models. It is written exclusively for engineers contributing to or maintaining this codebase.
 
 ---
 
